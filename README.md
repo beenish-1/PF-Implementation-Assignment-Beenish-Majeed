@@ -35,7 +35,7 @@ This setup allows anyone reviewing the project to easily see individual program 
 
 ---
 
-## 3. List of All 30 Programs
+## 2. List of All 30 Programs
 Below is the **format and example** of the list of implemented programs.  
 Each program follows the same naming structure:  
 `P<number>_<Meaningful_Program_Title>.<extension>`
@@ -55,7 +55,7 @@ Additionally, there is **one “All_PROGRAM_RUNNER” file** in each subfolder (
 
 ---
 
-## 5. Notes
+## 3. Notes
 - Each program is in a **separate, clean, commented file**.  
 - Every individual program includes an **Output Link in the top comment**.  
 - Both C++ and Python implementations are included.  
