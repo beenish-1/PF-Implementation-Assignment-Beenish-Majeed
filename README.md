@@ -1,12 +1,4 @@
-# PF Implementation Assignment – Beenish Majeed
 
-## Student Information
-- **Name:** Beenish Majeed  
-- **Roll Number:** 25014119-058
-- **Section:** BA-Evening
-- **Languages Used:** C++ and Python
-
----
 
 ## 1. Overview of Implementation, Structure & Running Programs
 This repository contains my complete implementation of **30 Programming Fundamentals tasks** using **C++ and Python**.  
